@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Santiago
 
-<a href="https://www.linkedin.com/in/santiago-ferro-fullstack/">
-  <img align="left" alt="Santiago's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/santiago-ferro-fullstack/">  
+  <img align="left" alt="Santiago's LinkdeIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
 </a>
 
 <br />
